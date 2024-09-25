@@ -1,0 +1,21 @@
+.black{
+    background-color: black;
+
+}
+.white{
+    background-color: white;
+
+}
+.table{
+    margin-left: 280px;
+}
+.black:hover{
+     cursor: pointer;
+     background-color: #FF9874;
+
+}
+.white:hover{
+     cursor: pointer;
+     background-color:#8EACCD ;
+    
+}
